@@ -1,4 +1,4 @@
-# Task Manager API
+# Task Manager API by 12114710_backend
 
 ## Description
 This is a **Task Manager API** built with Flask and SQLAlchemy. It allows users to create, read, update, and delete tasks. The API supports bulk operations for both creating and deleting tasks, making it efficient for managing multiple tasks at once.
